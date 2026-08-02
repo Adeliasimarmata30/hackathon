@@ -1,0 +1,40 @@
+# ======================
+# Python
+# ======================
+Backend/.venv/
+Backend/__pycache__/
+**/__pycache__/
+*.pyc
+
+# Environment
+Backend/.env
+Frontend/.env
+.env
+
+# ======================
+# Node
+# ======================
+Frontend/node_modules/
+Frontend/dist/
+Frontend/.vite/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+**/.env
+**/.venv/
+**/node_modules/
+
+# Large generated files
+notebook/knowledge_base/knowledge_base_embedding.json
