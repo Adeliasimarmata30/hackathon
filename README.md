@@ -15,9 +15,9 @@
 
 | Nama Lengkap | Peran dalam Tim | Kontak (Email / GitHub) |
 | :--- | :--- | :--- |
-| [Nama Ketua Tim] | AI & Backend Engineer | [email@domain.com] / [@github_username] |
-| [Nama Anggota 2] | Frontend Developer | [email@domain.com] / [@github_username] |
-| [Nama Anggota 3] | Data & ML Engineer | [email@domain.com] / [@github_username] |
+| [Adelia P Simarmata | AI & Backend Engineer | [email@domain.com] / [@github_username] |
+| [Aisa Silvana nababan| Frontend Developer | [email@domain.com] / [@github_username] |
+| [Dionisis Sidabutar] | Data & ML Engineer | [email@domain.com] / [@github_username] |
 
 ## 3. Pemanfaatan Data Pariwisata Toba
 
