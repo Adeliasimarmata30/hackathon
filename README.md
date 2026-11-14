@@ -11,14 +11,6 @@
 
 ## 2. Anggota Tim
 
-*(Ingat: Jangan cantumkan asal institusi!)*
-
-| Nama Lengkap | Peran dalam Tim | Kontak (Email / GitHub) |
-| :--- | :--- | :--- |
-| [Adelia P Simarmata | AI & Backend Engineer | [email@domain.com] / [@github_username] |
-| [Aisa Silvana nababan| Frontend Developer | [email@domain.com] / [@github_username] |
-| [Dionisis Sidabutar] | Data & ML Engineer | [email@domain.com] / [@github_username] |
-
 ## 3. Pemanfaatan Data Pariwisata Toba
 
 Sesuai panduan *Challenge Statement*, solusi kami memanfaatkan **Lake Toba Smart Tourism Knowledge Dataset v2.0** secara komprehensif:
